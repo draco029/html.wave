@@ -1,0 +1,141 @@
+.main{
+  background-color:#FFD700;
+  align-items: center;
+
+}
+.m1{
+  width: 1100px;
+  height: 50px;
+  margin: 0em auto;
+  display: flex;
+  align-items: center;
+}
+.top {
+  width: 300px;
+}
+.logo {
+  width: 600px;
+  text-align: center;
+}
+.language{
+  width: 200px;
+  text-align: right;
+}
+
+.main2  {
+
+  /* border:1px solid black; */
+  width: 1100px;
+  height: 70px;
+  margin: 0em auto;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  
+
+}
+
+.B{
+ text-align: right;
+ margin: 0em auto ;
+ margin-left: 14.8%;
+}
+
+.LF {
+  background-color: #FFD700; 
+  border: none;
+  color: #000; 
+  font-size: 13px;
+  padding: 15px 30px;
+  border-radius: 50px; 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); 
+  text-align: center;
+  
+}
+
+.D{
+  background-color: #FFD700; 
+  border: none;
+  color: #000; 
+  font-size: 13px;
+  padding: 15px 30px;
+  border-radius: 50px; 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); 
+  text-align: center;
+
+}
+
+.body{
+
+  /* border: 1px solid black; */
+  width: 1100spx;
+  height: 570px;
+  margin: 0em auto;
+  justify-content: center;
+}
+
+.main3{
+
+  /* border: 3px solid black; */
+  margin: 0em auto;
+  width: 1435px;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  line-height: 5em;
+}
+
+.wave{
+  color: rgb(63, 134, 228);
+  font-size: 3em;
+  margin: 0em auto;
+
+}
+
+.p1{
+
+  display: block;
+  line-height: 2em;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap; 
+  text-align:center;
+}
+
+.b0{
+
+  line-height: 7em;
+}
+
+.b1{
+
+  background-color: #FFD700; 
+  border: none;
+  color: #000; 
+  font-size: 20px;
+  padding: 10px 60px;
+  border-radius: 100px;  
+  text-align: center;
+  cursor: pointer;
+  
+}
+
+.b2{
+  background-color: #f6f5f2; 
+  border-color: #FFD700;
+  color:#000; 
+  font-size: 20px;
+  padding: 10px 60px;
+  border-radius: 100px;  
+  text-align: center;
+  cursor: pointer;
+
+}
+
+.b2:hover{
+  background-color:#FFD700; 
+  color:#000; 
+}
+
